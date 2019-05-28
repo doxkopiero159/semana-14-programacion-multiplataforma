@@ -1,0 +1,15 @@
+C:\Users\piero\source\repos\Ejercicios11\Ejercicios11\Ejercicios11\bin\Debug\netstandard2.0\Ejercicios11.deps.json
+C:\Users\piero\source\repos\Ejercicios11\Ejercicios11\Ejercicios11\bin\Debug\netstandard2.0\Ejercicios11.dll
+C:\Users\piero\source\repos\Ejercicios11\Ejercicios11\Ejercicios11\bin\Debug\netstandard2.0\ref\Ejercicios11.dll
+C:\Users\piero\source\repos\Ejercicios11\Ejercicios11\Ejercicios11\bin\Debug\netstandard2.0\Ejercicios11.pdb
+C:\Users\piero\source\repos\Ejercicios11\Ejercicios11\Ejercicios11\obj\Debug\netstandard2.0\Ejercicios11.csprojAssemblyReference.cache
+C:\Users\piero\source\repos\Ejercicios11\Ejercicios11\Ejercicios11\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piero\source\repos\Ejercicios11\Ejercicios11\Ejercicios11\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piero\source\repos\Ejercicios11\Ejercicios11\Ejercicios11\obj\Debug\netstandard2.0\Ejercicios11.csproj.CoreCompileInputs.cache
+C:\Users\piero\source\repos\Ejercicios11\Ejercicios11\Ejercicios11\obj\Debug\netstandard2.0\Ejercicios11.AssemblyInfoInputs.cache
+C:\Users\piero\source\repos\Ejercicios11\Ejercicios11\Ejercicios11\obj\Debug\netstandard2.0\Ejercicios11.AssemblyInfo.cs
+C:\Users\piero\source\repos\Ejercicios11\Ejercicios11\Ejercicios11\obj\Debug\netstandard2.0\Ejercicios11.dll
+C:\Users\piero\source\repos\Ejercicios11\Ejercicios11\Ejercicios11\obj\Debug\netstandard2.0\ref\Ejercicios11.dll
+C:\Users\piero\source\repos\Ejercicios11\Ejercicios11\Ejercicios11\obj\Debug\netstandard2.0\Ejercicios11.pdb
+C:\Users\piero\source\repos\Ejercicios11\Ejercicios11\Ejercicios11\obj\Debug\netstandard2.0\TodoItemPage.xaml.g.cs
+C:\Users\piero\source\repos\Ejercicios11\Ejercicios11\Ejercicios11\obj\Debug\netstandard2.0\TodoListPage.xaml.g.cs

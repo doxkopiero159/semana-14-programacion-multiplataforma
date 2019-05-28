@@ -1,0 +1,13 @@
+C:\Users\piero\source\repos\Ejercicio10\Ejercicio10\Ejercicio10\bin\Debug\netstandard2.0\Ejercicio10.deps.json
+C:\Users\piero\source\repos\Ejercicio10\Ejercicio10\Ejercicio10\bin\Debug\netstandard2.0\Ejercicio10.dll
+C:\Users\piero\source\repos\Ejercicio10\Ejercicio10\Ejercicio10\obj\Debug\netstandard2.0\Ejercicio10.csprojAssemblyReference.cache
+C:\Users\piero\source\repos\Ejercicio10\Ejercicio10\Ejercicio10\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piero\source\repos\Ejercicio10\Ejercicio10\Ejercicio10\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piero\source\repos\Ejercicio10\Ejercicio10\Ejercicio10\obj\Debug\netstandard2.0\Ejercicio10.csproj.CoreCompileInputs.cache
+C:\Users\piero\source\repos\Ejercicio10\Ejercicio10\Ejercicio10\obj\Debug\netstandard2.0\Ejercicio10.AssemblyInfoInputs.cache
+C:\Users\piero\source\repos\Ejercicio10\Ejercicio10\Ejercicio10\obj\Debug\netstandard2.0\Ejercicio10.AssemblyInfo.cs
+C:\Users\piero\source\repos\Ejercicio10\Ejercicio10\Ejercicio10\bin\Debug\netstandard2.0\Ejercicio10.pdb
+C:\Users\piero\source\repos\Ejercicio10\Ejercicio10\Ejercicio10\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piero\source\repos\Ejercicio10\Ejercicio10\Ejercicio10\obj\Debug\netstandard2.0\Ejercicio10.dll
+C:\Users\piero\source\repos\Ejercicio10\Ejercicio10\Ejercicio10\obj\Debug\netstandard2.0\Ejercicio10.pdb
+C:\Users\piero\source\repos\Ejercicio10\Ejercicio10\Ejercicio10\obj\Debug\netstandard2.0\AdoDemo.xaml.g.cs
